@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/kamijodev/socket.io-test/issues"
   },
-  "homepage": "https://github.com/kamijodev/socket.io-test#readme"
+  "homepage": "https://github.com/kamijodev/socket.io-test#readme",
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  }
 }
